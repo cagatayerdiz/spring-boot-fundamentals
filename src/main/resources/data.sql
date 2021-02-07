@@ -1,4 +1,4 @@
-INSERT INTO application (application_id, app_name, description, owner) VALUES (1, 'Trackzilla','A bug tracking application', 'Kesha Williams');
+/*INSERT INTO application (application_id, app_name, description, owner) VALUES (1, 'Trackzilla','A bug tracking application', 'Kesha Williams');
 INSERT INTO application (application_id, app_name, description, owner) VALUES (2, 'Expenses','An application used to submit expenses', 'Jane Doe');
 INSERT INTO application (application_id, app_name, description, owner) VALUES (3, 'Bookings','An application used to book tickets', 'John Doe');
 INSERT INTO application (application_id, app_name, description, owner) VALUES (4, 'Invoice Search','An application used to search invoices ', 'Mary Richards');
@@ -13,4 +13,4 @@ INSERT INTO release (id, description, release_date) VALUES (3,'Q3 Release Contai
 INSERT INTO release (id, description, release_date) VALUES (4,'Q4 Release Containing Enhancements', '2030-12-10');
 INSERT INTO ticket_release (release_fk, ticket_fk) VALUES (1,3);
 INSERT INTO ticket_release (release_fk, ticket_fk) VALUES (2,1);
-INSERT INTO ticket_release (release_fk, ticket_fk) VALUES (2,4);
+INSERT INTO ticket_release (release_fk, ticket_fk) VALUES (2,4);*/
