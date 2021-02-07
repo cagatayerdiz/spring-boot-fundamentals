@@ -1,4 +1,4 @@
-package com.pluralsight.fundamentals;
+package com.pluralsight;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
